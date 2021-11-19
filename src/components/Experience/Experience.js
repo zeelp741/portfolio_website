@@ -9,7 +9,7 @@ import { experiences } from '../../constants/constants';
 
 
 const Experience = () => (
-    <Section>
+    <Section nopadding id = "experience">
         <SectionDivider/>
         <SectionTitle main>Work Experience</SectionTitle>
 

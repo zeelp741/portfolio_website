@@ -49,15 +49,15 @@ const Header = () =>  (
   </Div2>
 
   <Div3>
-    <SocialIcons href="https://github.com/zeelp741">
+    <SocialIcons onClick = {openTabGithub}>
       <AiFillGithub size = "3rem"/>
     </SocialIcons>
 
-    <SocialIcons href="https://www.linkedin.com/in/zeelp2002/">
+    <SocialIcons onClick = {openTabLinkedin}>
       <AiFillLinkedin size = "3rem"/>
     </SocialIcons>
 
-    <SocialIcons href="https://drive.google.com/file/d/1Z-TEhpcEgil6V24O6R4rvZ2iEWTRN5cq/view?usp=sharing">
+    <SocialIcons onClick = {openTabResume}>
 
       <AiOutlineFileText size = "3rem"/>
     </SocialIcons>
@@ -65,5 +65,21 @@ const Header = () =>  (
 
 </Container>
 );
+
+function openTabResume(){
+  const url = "https://drive.google.com/file/d/1Z-TEhpcEgil6V24O6R4rvZ2iEWTRN5cq/view?usp=sharing"
+  window.open(url, '_blank')
+}
+
+function openTabGithub(){
+  const url = "https://github.com/zeelp741"
+  window.open(url, '_blank')
+}
+
+function openTabLinkedin(){
+  const url = "https://www.linkedin.com/in/zeelp2002/"
+  window.open(url, '_blank')
+}
+
 
 export default Header;
