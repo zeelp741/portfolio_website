@@ -37,7 +37,7 @@ export const experiences = [
     title: 'Software Engineer - Extreme Blue at IBM',
     description: 'Time Worked: May 2022 - Present',
       image: './images/ibm-logo.png',
-      tags: ['Product Management', 'Microservices'],
+      tags: ['Product Management', 'Microservices',"AI"],
     visit: 'https://google.com',
     id: 0
 
