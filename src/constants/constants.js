@@ -29,19 +29,26 @@ export const projects = [
     id: 2,
   },
 
-  
-  
 
 ];
 
 export const experiences = [
   {
+    title: 'Software Engineer - Extreme Blue at IBM',
+    description: 'Time Worked: May 2022 - Present',
+      image: './images/ibm-logo.png',
+      tags: ['Product Management', 'Microservices'],
+    visit: 'https://google.com',
+    id: 0
+
+  },
+  {
     title: 'Software Engineer at BMO',
-    description: 'September 2021 - Present',
+    description: 'Time Worked: Sept 2021 - Present',
       image: './images/bmo_image.png',
       tags: ['Java', 'Angular', 'Postman', 'Jira', 'Python'],
     visit: 'https://google.com',
-    id: 0
+    id: 1
 
   },
 
@@ -51,7 +58,7 @@ export const experiences = [
       tags: ['React.js', 'Next.js', 'GraphQL', 'Graph CMS', 'Tailwind CSS'],
       image: './images/virtual-meetup.jpg',
     visit: 'https://google.com',
-    id: 1
+    id: 2
 
   },
 
@@ -61,7 +68,7 @@ export const experiences = [
       tags: ['React.js', 'Express', 'Typescript', 'Javscript'],
       image: './images/waterloop-logo.png',
     visit: 'https://google.com',
-    id: 2
+    id: 3
 
   },
 
@@ -69,9 +76,9 @@ export const experiences = [
     title: 'Software Developer at Facedrive',
     description: 'January 2021 - April 2021',
       tags: ['MongoDB', 'Express.js', 'Node.js', 'React.js'],
-      image: './images/Facedrive_logo.jpg',
+      image: './images/facedrive-logo.jpg',
     visit: 'https://google.com',
-    id: 3
+    id: 4
 
   },
   ,
