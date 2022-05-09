@@ -15,10 +15,10 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
       🏢 - Software Engineer - Extreme Blue @ IBM <br/>
-      🏦 - Software Engineer @ BMO, Capital Markets/Security
-      🏫 - CS and BBA Student<br/>
+      🏦 - Software Engineer @ BMO, Capital Markets/Security<br/>
+      🏫 - CS and BBA Student <br/>
       👀 - Seeking Intern Opportunities <br/>
-      📝 - Check out my Resume below
+      📝 - Check out my Resume below<br/>
 
       </SectionText>
 

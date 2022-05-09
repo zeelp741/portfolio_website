@@ -70,7 +70,7 @@ export const SectionText = styled.p`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
     padding-bottom: 16px;
   }
