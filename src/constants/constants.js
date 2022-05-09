@@ -38,7 +38,7 @@ export const experiences = [
     description: 'Time Worked: May 2022 - Present',
       image: './images/ibm-logo.png',
       tags: ['Product Management', 'Microservices',"AI"],
-    visit: 'https://google.com',
+    visit: 'https://www.ibm.com/employment/extremeblue/',
     id: 0
 
   },
@@ -47,7 +47,7 @@ export const experiences = [
     description: 'Time Worked: Sept 2021 - Present',
       image: './images/bmo_image.png',
       tags: ['Java', 'Angular', 'Postman', 'Jira', 'Python'],
-    visit: 'https://google.com',
+    visit: 'https://capitalmarkets.bmo.com/en/',
     id: 1
 
   },
@@ -57,7 +57,7 @@ export const experiences = [
     description: 'January 2021 - April 2021',
       tags: ['React.js', 'Next.js', 'GraphQL', 'Graph CMS', 'Tailwind CSS'],
       image: './images/virtual-meetup.jpg',
-    visit: 'https://google.com',
+    visit: 'https://www.linkedin.com/company/virtual-meetup/mycompany/?viewAsMember=true',
     id: 2
 
   },
@@ -67,7 +67,7 @@ export const experiences = [
     description: 'May 2021 - Present',
       tags: ['React.js', 'Express', 'Typescript', 'Javscript'],
       image: './images/waterloop-logo.png',
-    visit: 'https://google.com',
+    visit: 'https://teamwaterloop.ca/',
     id: 3
 
   },
@@ -77,7 +77,7 @@ export const experiences = [
     description: 'January 2021 - April 2021',
       tags: ['MongoDB', 'Express.js', 'Node.js', 'React.js'],
       image: './images/facedrive-logo.jpg',
-    visit: 'https://google.com',
+    visit: 'https://facedrive.com/',
     id: 4
 
   },

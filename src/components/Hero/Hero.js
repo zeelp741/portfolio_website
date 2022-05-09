@@ -14,7 +14,8 @@ const Hero = (props) => (
         Zeel Patel
       </SectionTitle>
       <SectionText>
-      🏦 - Software Developer at BMO <br/>
+      🏢 - Software Engineer - Extreme Blue @ IBM <br/>
+      🏦 - Software Engineer @ BMO, Capital Markets/Security
       🏫 - CS and BBA Student<br/>
       👀 - Seeking Intern Opportunities <br/>
       📝 - Check out my Resume below
